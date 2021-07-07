@@ -1,0 +1,4 @@
+Machine Learning  - Guia de Referência Rápida - 
+Trabalhando com dados estruturados em Python
+Matt Harisson
+Novatec
